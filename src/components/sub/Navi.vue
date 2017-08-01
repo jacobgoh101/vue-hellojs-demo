@@ -11,7 +11,7 @@
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://github.com/jacobgoh101/vue-hellojs-demo">
             <i class="fa fa-github" aria-hidden="true"></i> Source Code
           </a>
         </li>
