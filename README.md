@@ -1,6 +1,6 @@
 # vue-hellojs-demo
 
-> Demo Vue.js site for vue-hellojs
+> Demo Vue.js site for [vue-hellojs](https://github.com/jacobgoh101/vue-hellojs)
 
 ## Build Setup
 
